@@ -1,10 +1,5 @@
 # PMT-Project
 This repository consists of activities done by our team in the Project Management Lab, SDMCET, DHARWAD
-Sure, here's a template you can use for your README file:
-
-Project Name
-Description
-Briefly describe your project, its purpose, and any important information about it.
 
 Table of Contents
 Installation
