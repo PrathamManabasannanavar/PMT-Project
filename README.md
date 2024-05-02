@@ -24,7 +24,7 @@ Outline guidelines for contributing to your project. Include information on how 
 1. Pratham Manabasannanavar
 2. Prateek Pandarikar
 3. Prathamesh Pai
-4. PRASANNA G PATTANASHETTI
+4. Prasanna G Pattanashetti
 5. Vrushabh S Upadhye
 
 License
