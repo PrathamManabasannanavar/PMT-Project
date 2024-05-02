@@ -21,7 +21,12 @@ Contributing
 Outline guidelines for contributing to your project. Include information on how others can contribute code, report bugs, or suggest improvements.
 
 Contributors
-List the names or usernames of the project contributors.
+**Names of the contributors:-**
+1. Pratham Manabasannanavar.
+2. Prateek Pandarikar.
+3. Prathamesh Pai.
+4. Prasanna
+5. Vrushabh
 
 License
 Specify the license under which your project is distributed. For example, MIT, Apache 2.0, etc
