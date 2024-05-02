@@ -21,11 +21,11 @@ Contributing
 Outline guidelines for contributing to your project. Include information on how others can contribute code, report bugs, or suggest improvements.
 
 **Contributors:-**
-1. Pratham Manabasannanavar.
-2. Prateek Pandarikar.
-3. Prathamesh Pai.
-4. Prasanna
-5. Vrushabh
+1. Pratham Manabasannanavar
+2. Prateek Pandarikar
+3. Prathamesh Pai
+4. PRASANNA G PATTANASHETTI
+5. Vrushabh S Upadhye
 
 License
 Specify the license under which your project is distributed. For example, MIT, Apache 2.0, etc
