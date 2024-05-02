@@ -20,8 +20,7 @@ Explain how to use your project. Provide examples, if applicable, to help users 
 Contributing
 Outline guidelines for contributing to your project. Include information on how others can contribute code, report bugs, or suggest improvements.
 
-Contributors
-**Names of the contributors:-**
+**Contributors:-**
 1. Pratham Manabasannanavar.
 2. Prateek Pandarikar.
 3. Prathamesh Pai.
