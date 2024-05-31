@@ -14,6 +14,7 @@ void addCustomer(int token)
     printf("Customer with token %d seated successfully.\n", token);
 }
 
+
 void callCustomer()
 {
     if(front > rear)
