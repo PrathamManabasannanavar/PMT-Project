@@ -16,6 +16,7 @@ void addCustomer(int token)
 
 
 void callCustomer()
+
 {
     if(front > rear)
     {
