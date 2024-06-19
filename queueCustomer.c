@@ -5,6 +5,7 @@
 int chairs[MAX_CUSTOMERS], front = 0, rear = -1;
 void addCustomer(int token)
 {
+    
     if(rear == MAX_CUSTOMERS - 1)
     {
         printf("Maximum number of customers reached.\n");
